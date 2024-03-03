@@ -12,7 +12,7 @@ Naive Bayes Classifiers Algorithm
   - Naive Bayes algorithm is a supervised learning algorithm, which is based on Bayes theorem and used for solving classification problems. It assumes that the occurrence of a certain feature is independent of the occurrence of other features. Each feature individually contributes to identify its output without depending on each other.
 
 K-Nearest Neighbor(KNN) Algorithm
-  -K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique. It assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories. KNN algorithm can be used for Regression as well as for Classification but mostly it is used for the Classification problems. We're attempting to predict TV show and movie ratings using both classification methods.
+  - K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique. It assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories. KNN algorithm can be used for Regression as well as for Classification but mostly it is used for the Classification problems. We're attempting to predict TV show and movie ratings using both classification methods.
 
 ## Tools Used
 
